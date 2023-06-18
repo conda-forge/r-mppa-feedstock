@@ -1,11 +1,11 @@
-About r-mppa
-============
+About r-mppa-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mppa-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=mppa
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mppa-feedstock/blob/main/LICENSE.txt)
 
 Summary: A procedure to test for dependence between point processes on the real line, e.g. causal dependence, correlation, inhibition or anti-correlation. The package also provides a number of utilities for plotting simultaneous point processes, and combining p-values.
 
